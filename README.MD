@@ -1,6 +1,6 @@
 # Hello! I am tjshawa (tjshtqwq)
-Java & Python Develop, Machine learning, Minecraft plugin Develop.
-
+Java & Python Develop, Machine learning, Security(Old), Anticheat, Minecraft plugin Develop.
+Have tens of thousands of lines of development experience.
 
 ## Languages
 - Web (HTML, JavaScript)
